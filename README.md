@@ -3,4 +3,4 @@ Businesses or companies can fall prey to default if they are not able to keep up
 
 An investor would want to invest in a company if it is capable of handling its financial obligations, can grow quickly, and is able to manage the growth scale.
 
-## Using the Given data from the balance sheets of the companies, we will analyze the Financial Risks associated with the companies so as to identify potential defaulters.
+### Using the Given data from the balance sheets of the companies, we will analyze the Financial Risks associated with the companies so as to identify potential defaulters.
